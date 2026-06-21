@@ -1,0 +1,22 @@
+{
+  "Ash": {
+    "password": "1bcc0d24f8766535308c820c9870d2b3fd38787a1e9ab02e056931535ffda132",
+    "victorias_defensor": 0,
+    "victorias_atacante": 1
+  },
+  "Felix": {
+    "password": "72e05755c901137040bae84f76ec7349baf97e1057c54dc8a044617465907265",
+    "victorias_defensor": 0,
+    "victorias_atacante": 0
+  },
+  "alejandro": {
+    "password": "ee0d6c299a70d20946c1bbdba7e14d32bd0214291344fad4a050f42e0197f866",
+    "victorias_defensor": 0,
+    "victorias_atacante": 0
+  },
+  "mathew": {
+    "password": "8e12f5b3bcd6c3a91ef30f1bff0108c9269de0d270e1dca74003b336b0cacf4b",
+    "victorias_defensor": 0,
+    "victorias_atacante": 0
+  }
+}
