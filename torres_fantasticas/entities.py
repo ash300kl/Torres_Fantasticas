@@ -133,7 +133,7 @@ class TorreCañonera(Torre):
         super().__init__(fila, col)
         self.subtipo = "cañonera"
         self.nombre = "Torre Cañonera"
-        self.costo = 550
+        self.costo = 750
         self.vida = 200
         self.vida_max = 200
         self.daño = 80
