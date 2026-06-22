@@ -64,4 +64,6 @@ torres_fantasticas/
 └── README.md
 ```
 
-Creado por Alán Zúñiga Matamoros 2026016286 y Félix Yepez Maita 2026015354
+## Creado por 
+Alán Zúñiga Matamoros---2026016286 
+Félix Yepez Maita-------2026015354
