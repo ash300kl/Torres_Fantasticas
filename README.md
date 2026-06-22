@@ -65,5 +65,6 @@ torres_fantasticas/
 ```
 
 ## Creado por 
-Alán Zúñiga Matamoros---2026016286 
+Alán Zúñiga Matamoros---2026016286
+
 Félix Yepez Maita-------2026015354
