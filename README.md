@@ -7,6 +7,7 @@ Juego de estrategia por turnos para dos jugadores. Un jugador defiende una base 
 - Python 3.10 o superior
 - Tkinter (incluido en Python estándar)
 - No requiere librerías externas para funcionar
+- Instalar libreria pygame para funcionamiento dela musica (Opcional)
 
 ## Ejecución
 
