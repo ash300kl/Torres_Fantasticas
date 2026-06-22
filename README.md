@@ -63,3 +63,5 @@ torres_fantasticas/
 │   └── players.json   # Base de datos de jugadores (se crea automáticamente)
 └── README.md
 ```
+
+#Creado por Alán Zúñiga Matamoros 2026016286 y Félix Yepez Maita 2026015354
