@@ -94,7 +94,7 @@ def obtener_stats(nombre: str) -> dict:
 #! CLASE JUGADOR (estado en partida)
 
 class Jugador:
-    DINERO_INICIAL_DEFENSOR = 2000
+    DINERO_INICIAL_DEFENSOR = 1400
     DINERO_INICIAL_ATACANTE = 1100
     BONO_POR_RONDA = 700
 
