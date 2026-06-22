@@ -71,7 +71,7 @@ FACCIONES: dict[str, dict] = {
     },
     "submarina": {
         "nombre": "Submarina",
-        "descripcion": "Corales y conchas. Unidades marinas.",
+        "descripcion": "Corales. Unidades marinas.",
         "colores": {
             "fondo":           "#01579b",
             "base":            "#00acc1",
@@ -98,7 +98,7 @@ FACCIONES: dict[str, dict] = {
     },
     "fantastica": {
         "nombre": "Fantástica",
-        "descripcion": "Ents, troncos y grandes árboles. Elfos y enanos.",
+        "descripcion": "Objetos fantásticos. Tropas mágicas y maravillosas.",
         "colores": {
             "fondo":           "#1b5e20",
             "base":            "#2e7d32",
