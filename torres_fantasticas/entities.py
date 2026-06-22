@@ -136,7 +136,7 @@ class TorreCañonera(Torre):
         self.costo = 750
         self.vida = 200
         self.vida_max = 200
-        self.daño = 80
+        self.daño = 60
         self.alcance = 8
         self.cooldown_ataque = 6.0
         self.tiempo_habilidad = 18
@@ -262,8 +262,8 @@ class UnidadMelee(Unidad):
         self.subtipo = "melee"
         self.nombre = "Melee"
         self.costo = 50
-        self.vida = 100
-        self.vida_max = 100
+        self.vida = 150
+        self.vida_max = 150
         self.daño = 30
         self.velocidad = 1
         self.alcance = 1
